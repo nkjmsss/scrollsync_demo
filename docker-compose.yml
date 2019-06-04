@@ -9,4 +9,4 @@ services:
     tty: true
     environment:
       HOST: "0.0.0.0"
-    command: yarn start
+    command: npm start
